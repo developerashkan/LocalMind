@@ -1,6 +1,6 @@
 # LocalMind
 
-LocalMind is an Android note-taking app that keeps your ideas organized with an AI-first workflow.
+NoteAI: AI-powered note-taking with Ollama for smart, local suggestions.
 
 ## Project structure
 - `app/` — Android application module
