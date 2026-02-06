@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NoteAI"
+rootProject.name = "LocalMind"
 include(":app")
