@@ -4,7 +4,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="NoteAI"
+        android:label="LocalMind"
         android:supportsRtl="true">
         <activity
             android:name="com.example.noteai.MainActivity"
